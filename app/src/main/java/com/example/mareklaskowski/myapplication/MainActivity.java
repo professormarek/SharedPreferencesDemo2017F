@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
             EditText editTextStudentId = (EditText) findViewById(R.id.editTextStudentId);
             editTextStudentId.setText(""+studentId);
         }
-        //TODO: you do the grade as well!
+        //TODO: you do the grade as well (as a String)!
     }
 }
 
